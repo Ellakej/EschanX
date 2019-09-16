@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>Eschan X - Modlog</title>
+<link>https://eschan.x10.mx</link>
+<description>Live view of all moderative actions on https://eschan.x10.mx</description>
+<language>en</language>
+	<item>
+	<title>Sun 09/15 15:16</title>
+	<description><![CDATA[kng0x - Logged in]]></description>
+	</item>
+	<item>
+	<title>Sat 09/14 23:17</title>
+	<description><![CDATA[kng0x - Added an announcement]]></description>
+	</item>
+	<item>
+	<title>Sat 09/14 23:16</title>
+	<description><![CDATA[kng0x - Deleted an announcement]]></description>
+	</item>
+	<item>
+	<title>Sat 09/14 23:06</title>
+	<description><![CDATA[kng0x - Added Administrator AndresCT12]]></description>
+	</item>
+	<item>
+	<title>Sat 09/14 23:05</title>
+	<description><![CDATA[kng0x - Added a news entry]]></description>
+	</item>
+	<item>
+	<title>Sat 09/14 23:03</title>
+	<description><![CDATA[kng0x - Logged in]]></description>
+	</item>
+	<item>
+	<title>Sat 09/14 23:03</title>
+	<description><![CDATA[admin - Deleted staff member: admin]]></description>
+	</item>
+	<item>
+	<title>Sat 09/14 23:03</title>
+	<description><![CDATA[admin - Added Administrator kng0x]]></description>
+	</item>
+	<item>
+	<title>Sat 09/14 23:00</title>
+	<description><![CDATA[admin - Rebuilt all boards and threads]]></description>
+	</item>
+	<item>
+	<title>Sat 09/14 22:59</title>
+	<description><![CDATA[admin - Viewed disk space used]]></description>
+	</item>
+	<item>
+	<title>Sat 09/14 22:57</title>
+	<description><![CDATA[admin - Edited a Rule entry]]></description>
+	</item>
+	<item>
+	<title>Sat 09/14 22:56</title>
+	<description><![CDATA[admin - Added a Rule entry]]></description>
+	</item>
+	<item>
+	<title>Sat 09/14 22:55</title>
+	<description><![CDATA[admin - Edited a Rule entry]]></description>
+	</item>
+	<item>
+	<title>Sat 09/14 22:55</title>
+	<description><![CDATA[admin - Edited a Rule entry]]></description>
+	</item>
+	<item>
+	<title>Sat 09/14 22:54</title>
+	<description><![CDATA[admin - Edited a Rule entry]]></description>
+	</item>
+
+</channel>
+</rss>
